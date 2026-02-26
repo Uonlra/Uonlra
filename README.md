@@ -20,10 +20,11 @@
 -->
 <!-- 语言--> 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uonlra&theme=tokyonight&stats_format=bytes&langs_count=8&layout=donut)
-<!-- 总体统计--> 
-![Uonlra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uonlra&show_icons=true&theme=tokyonight)
-<!-- streak --> 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uonlra&theme=tokyonight)
+<!-- 
+<!-- 总体统计 ![Uonlra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uonlra&show_icons=true&theme=tokyonight) --> 
+
+<!-- streak ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uonlra&theme=tokyonight) --> 
+
 
   <!--
 <p align="left">
