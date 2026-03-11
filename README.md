@@ -87,7 +87,9 @@
 ---
 
 ## 🚀 现在在做 / 学习中
-- 🌱 正在学习： https://i.am.ai/roadmap/#note 
+- 🌱 正在学习：
+- https://i.am.ai/roadmap/#note
+- [https://roadmap.sh/dashboard ](https://roadmap.sh/data-engineer)
 - 如果你对我的项目感兴趣，欢迎开 issue、提 PR 或者交流心得。
 
 ---
