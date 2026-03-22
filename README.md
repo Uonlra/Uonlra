@@ -1,11 +1,13 @@
 ## 👋👋👋 Hellooooooooo!!
-我是 Uonlra。我喜欢折腾代码、学习 CS 与 Python、以及在 Blender 里做些小作品。</p>
+我是 Uonlra。</p>
+学习 CS、数据分析 + 前端、以及在 Blender 里捣鼓捣鼓。</p>
 把学习过程写成笔记与仓库，方便回顾与分享。
 
+
 🎵 音乐相关
-- 蘑菇帝国
+- 蘑菇帝国、Chinese football
 - 🎸only
-- 钉鞋摇滚
+- Shoegaze、Post-punk
 
 如果希望了解更多😚，请查看[我的个人网站](https://notion-next-delta-olive-52.vercel.app/)
 
