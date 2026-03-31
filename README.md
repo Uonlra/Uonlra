@@ -1,5 +1,3 @@
-<img width="483" height="766" alt="image" src="https://github.com/user-attachments/assets/c3b2b49f-6de4-46ab-8966-af19532d6b6a" />
-
 ---
 ## 📊 我的 GitHub 统计
 
