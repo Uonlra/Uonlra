@@ -6,7 +6,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Uonlra&theme=onedark)
 -->
 <!-- 语言--> 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uonlra&theme=tokyonight&stats_format=bytes&langs_count=8&layout=donut)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uonlra&theme=tokyonight&stats_format=bytes&langs_count=8&layout=donut)-->
 <!-- 
 <!-- 总体统计 ![Uonlra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uonlra&show_icons=true&theme=tokyonight) --> 
 
