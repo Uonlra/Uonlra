@@ -23,26 +23,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      # 1) Isometric commit calendar（全年）
-      - name: Metrics - Isometric commit calendar
+      # 合并展示：一次生成，避免两张图重复基础信息
+      - name: Metrics - Combined overview
         uses: lowlighter/metrics@v3.34
         with:
           user: Uonlra
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
-          filename: metrics-isocalendar.svg
+          filename: metrics.svg
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-      # 2) Languages activity（单独文件输出）
-      - name: Metrics - Languages activity
-        uses: lowlighter/metrics@v3.34
-        with:
-          user: Uonlra
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
-          filename: metrics-languages.svg
 
           plugin_languages: yes
           plugin_languages_sections: most-used, recently-used
@@ -63,28 +54,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 1) Isometric commit calendar（预览，不写回仓库）
-      - name: Metrics - Isometric commit calendar (dry-run)
+      # 合并展示预览：避免两张图重复基础信息
+      - name: Metrics - Combined overview (dry-run)
         uses: lowlighter/metrics@v3.34
         with:
           user: Uonlra
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
-          filename: metrics-isocalendar.svg
+          filename: metrics.svg
           dryrun: yes
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-      # 2) Languages activity（预览，不写回仓库）
-      - name: Metrics - Languages activity (dry-run)
-        uses: lowlighter/metrics@v3.34
-        with:
-          user: Uonlra
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
-          filename: metrics-languages.svg
-          dryrun: yes
 
           plugin_languages: yes
           plugin_languages_sections: most-used, recently-used
