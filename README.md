@@ -32,7 +32,7 @@
 </p>
 
 ---
-
+<!--
 ## ✨ 我的一些产出
 - 🔭 This is the testimony of the [missing-semester](https://github.com/uonlraSnaey/missing-semester)
 - 🎓 CS50 学习路线（记录与笔记）：https://github.com/uonlraSnaey/cs50
@@ -42,26 +42,31 @@
 ### 🎨 Blender 小作品
 1. 🍩 [donut](https://github.com/uonlraSnaey/blender_donut)  
 2. 🍐 [pearl](https://github.com/Uonlra/blender/tree/main/pearl)
-
+   -->
 ---
 
 ## 🛠 常用工具与资源
-### 1. Vim
+### 1. 前端创意
+- https://www.designspells.com/
+- https://godly.website/
+- https://www.unicorn.studio/
+- https://motionsites.ai/
+### 2. Vim
 - 📘 vim 中文手册：https://yianwillis.github.io/vimcdoc/doc/quickref.html
 
-### 2. Git / GitHub
+### 3. Git / GitHub
 - 📗 《Pro Git》学习仓库（包含资料与中文翻译）：https://github.com/uonlraSnaey/Gitpro_notes  
 - 📝 GitHub 官方中文文档：https://docs.github.com/zh/get-started
 
-### 3. Obsidian 插件（推荐）
+### 4. Obsidian 插件（推荐）
 - Dataview（强大的笔记查询）: obsidian://show-plugin?id=dataview  
 - Calendar（日历）  
 - Style settings（主题/样式配置）
 
-### 4. Notion 笔记
+### 5. Notion 笔记
 - Notion（托管式笔记，个人资料、项目管理与知识库）：https://www.notion.com/
 
-### 5. bitwarden
+### 6. bitwarden
 - 非常实用的密码管理工具：https://bitwarden.com/
 
 ---
