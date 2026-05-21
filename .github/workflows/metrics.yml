@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@v4
       # 合并展示：一次生成，避免两张图重复基础信息
       - name: Metrics - Combined overview
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@latest
         with:
           user: Uonlra
           token: ${{ secrets.METRICS_TOKEN }}
@@ -55,7 +55,7 @@ jobs:
 
       # 合并展示预览：避免两张图重复基础信息
       - name: Metrics - Combined overview (dry-run)
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@latest
         with:
           user: Uonlra
           token: ${{ secrets.METRICS_TOKEN }}
