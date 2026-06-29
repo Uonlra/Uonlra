@@ -82,7 +82,7 @@
 ## 🚀 现在在做 / 学习中
 - 🌱 正在学习：
 - [https://roadmap.sh/dashboard ](https://roadmap.sh/data-engineer)
-- WEBGL & Tree.js
+- basic fronted -> 3D.js -> Tree.js & basic 3D -> webGl ... openGL 
 - 如果你对我的项目感兴趣，欢迎开 issue、提 PR 或者交流心得。
 
 ---
