@@ -74,7 +74,7 @@
 
 ## 📫 联系方式 & 社交
 -  📧 邮箱: ciencatsanye@gmail.com  
--  🔧 技术博客: https://www.uonlra.blog/
+-  🔧 技术博客: https://www.uon1ra.top/
 -  🎲 BILIBILI:https://space.bilibili.com/363257416
 
 ---
