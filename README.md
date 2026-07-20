@@ -31,54 +31,54 @@
   <img src="https://img.shields.io/badge/PRODUCT_THINKING-BBE4C9?style=for-the-badge&labelColor=BBE4C9&color=BBE4C9&logoColor=111827" alt="Product Thinking" />
 </p>
 
-## 👋 关于我
+## 👋 About Me
 
-计算机科学与技术专业，现技术方向为前端开发工程师，位于中国成都。专注于使用 React、TypeScript 和 Next.js 构建完整的 Web 应用，重视类型约束、异常状态、响应式体验与可维护的组件设计。
+Computer Science graduate and frontend developer based in Chengdu, China. I build complete web applications with React, TypeScript, and Next.js, with a focus on type safety, resilient states, responsive UX, and maintainable component design.
 
-- 正在探索：Three.js、WebGL 与可视化前端 3D 表现。
-- 喜欢将需求拆解为清晰的交互流程、数据模型与可复用组件。
-- 联系方式：`uonlra@hotmail.com` | 个人网站：[uon1ra.top](https://www.uon1ra.top/)
+- Exploring: Three.js, WebGL, and expressive 3D interfaces for the web.
+- I enjoy turning product requirements into clear interaction flows, data models, and reusable components.
+- Contact: `uonlra@hotmail.com` | Website: [uon1ra.top](https://www.uon1ra.top/)
 
-## 💪 核心能力
+## 💪 Core Strengths
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>🧩 组件化开发</h3>
+      <h3>🧩 Component Engineering</h3>
       <p>
-        基于 React Hooks 与组件拆分组织业务界面，
-        将列表、表单、筛选器和详情面板沉淀为可复用模块。
+        Build business interfaces with React Hooks and composable components,
+        turning lists, forms, filters, and detail panels into reusable modules.
       </p>
     </td>
     <td width="50%" align="center">
-      <h3>🛡️ 类型与状态管理</h3>
+      <h3>🛡️ Type Safety & State</h3>
       <p>
-        使用 TypeScript strict、Zustand、Context API、
-        React Hook Form 与 Zod 建立清晰的数据约束和交互流程。
+        Use TypeScript strict, Zustand, Context API, React Hook Form, and Zod
+        to establish clear data contracts and interaction flows.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>⚡ 接口与实时数据</h3>
+      <h3>⚡ APIs & Real-Time Data</h3>
       <p>
-        具备 Appwrite、Convex、Clerk 与 REST API 联调经验，
-        能够处理鉴权、分页、搜索、上传和实时数据同步。
+        Experienced with Appwrite, Convex, Clerk, and REST API integration,
+        including authentication, pagination, search, uploads, and live data sync.
       </p>
     </td>
     <td width="50%" align="center">
-      <h3>📱 验证与工程交付</h3>
+      <h3>📱 UX & Delivery</h3>
       <p>
-        重视响应式适配、loading、empty、error 等边界状态，
-        并通过 Vitest、ESLint、typecheck 和 build 完成交付验证。
+        Prioritize responsive layouts and loading, empty, and error states;
+        validate delivery with Vitest, ESLint, type checks, and production builds.
       </p>
     </td>
   </tr>
 </table>
 
-## 🔗 🛠 技术栈
+## 🔗 🛠 Tech Stack
 
-#### 💻 开发语言
+#### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### ⚛️ 前端开发
+#### ⚛️ Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -102,7 +102,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 </p>
 
-#### 🗂️ 状态、表单和可视化
+#### 🗂️ State, Forms & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
@@ -111,7 +111,7 @@
   <img src="https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="Apache ECharts" />
 </p>
 
-#### 🌐 数据、接口与鉴权
+#### 🌐 Data, APIs & Authentication
 
 <p>
   <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
@@ -121,7 +121,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-#### ☁️ 部署与工程化
+#### ☁️ Deployment & Tooling
 
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -131,16 +131,17 @@
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
 </p>
 
-## ✨ 项目维护
+## ✨ Featured Projects
 
 <table>
   <tr>
     <td width="100%">
-      <h3>🗂️ <a href="https://github.com/Uonlra/TaskFlow">TaskFlow — 个人任务管理工作台</a></h3>
+      <h3>🗂️ <a href="https://github.com/Uonlra/TaskFlow">TaskFlow — Personal Task Management Workspace</a></h3>
       <p>
-        基于 Next.js 与 TypeScript 构建的任务管理应用，覆盖认证、任务 CRUD、多维筛选、
-        统计看板、日历与个人设置。通过 Appwrite、API Route、httpOnly Cookie 和 middleware
-        实现真实数据、会话管理与页面保护，并以 URL 参数协议保证筛选状态可恢复、可分享。
+        A task management application built with Next.js and TypeScript, covering authentication,
+        task CRUD, multi-dimensional filtering, analytics, calendar views, and preferences. Appwrite,
+        API Routes, httpOnly cookies, and middleware provide data persistence, session management, and route protection.
+        A URL-based filter protocol makes filtered states restorable and shareable.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -150,8 +151,8 @@
         <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" alt="ECharts" />
       </p>
       <p>
-        <a href="https://www.uta4k.top/">在线预览</a> ·
-        <a href="https://github.com/Uonlra/TaskFlow">查看源码</a>
+        <a href="https://www.uta4k.top/">Live Demo</a> ·
+        <a href="https://github.com/Uonlra/TaskFlow">Source Code</a>
       </p>
     </td>
   </tr>
@@ -162,11 +163,11 @@
 <table>
   <tr>
     <td width="100%">
-      <h3>💬 <a href="https://github.com/Uonlra/RedditLike">RedditLike — 实时社区内容平台</a></h3>
+      <h3>💬 <a href="https://github.com/Uonlra/RedditLike">RedditLike — Real-Time Community Platform</a></h3>
       <p>
-        基于 Convex 响应式查询构建的实时社区应用，包含社区创建、帖子发布、评论、
-        投票、搜索、热门流和个人主页。围绕用户、社区、帖子与评论建立类型安全的数据模型，
-        支持全文搜索、资源归属校验和两阶段图片上传。
+        A real-time community application powered by Convex reactive queries, with communities,
+        posts, comments, voting, search, trending feeds, and user profiles. It uses type-safe data models
+        for users, communities, posts, and comments, plus full-text search, ownership checks, and two-stage image uploads.
       </p>
       <p>
         <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
@@ -176,7 +177,7 @@
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       </p>
       <p>
-        <a href="https://github.com/Uonlra/RedditLike">查看源码</a>
+        <a href="https://github.com/Uonlra/RedditLike">Source Code</a>
       </p>
     </td>
   </tr>
@@ -187,11 +188,11 @@
 <table>
   <tr>
     <td width="100%">
-      <h3>🎬 <a href="https://github.com/Uonlra/U-s-cinema">U-s-cinema — 电影浏览与观影清单</a></h3>
+      <h3>🎬 <a href="https://github.com/Uonlra/U-s-cinema">U-s-cinema — Movie Discovery & Watchlist</a></h3>
       <p>
-        面向电影浏览与个人片库管理的 React 单页应用，提供推荐、目录、详情、收藏、
-        想看和观看状态管理。封装泛型 TMDB 请求方法，统一处理分页、网络异常与图片兜底，
-        并完成 JavaScript 至 TypeScript strict 的渐进迁移。
+        A React single-page application for movie discovery and personal library management, with recommendations,
+        catalogs, details, favorites, watchlists, and viewing status. A generic TMDB request layer handles pagination,
+        network failures, and image fallbacks, while the codebase was incrementally migrated from JavaScript to TypeScript strict.
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -201,17 +202,17 @@
         <img src="https://img.shields.io/badge/TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white" alt="TMDB API" />
       </p>
       <p>
-        <a href="https://github.com/Uonlra/U-s-cinema">查看源码</a>
+        <a href="https://github.com/Uonlra/U-s-cinema">Source Code</a>
       </p>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub 统计数据
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Uonlra&theme=github-dark-blue&hide_border=true&locale=zh_Hans"
+    src="https://streak-stats.demolab.com?user=Uonlra&theme=github-dark-blue&hide_border=true&locale=en"
     alt="Uonlra's GitHub streak"
   />
 </p>
