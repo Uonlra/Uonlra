@@ -27,7 +27,7 @@
 
 ## 👋 关于我
 
-计算机科学与技术本科，现求职方向为前端开发工程师，位于成都。我专注于使用 React、TypeScript 和 Next.js 构建完整的 Web 应用，重视类型约束、异常状态、响应式体验与可维护的组件设计。
+计算机科学与技术专业，现技术方向为前端开发工程师，位于中国成都。专注于使用 React、TypeScript 和 Next.js 构建完整的 Web 应用，重视类型约束、异常状态、响应式体验与可维护的组件设计。
 
 - 正在探索：Three.js、WebGL 与前端 3D 表现。
 - 喜欢将需求拆解为清晰的交互流程、数据模型与可复用组件。
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 </p>
 
-### 🗂️ 状态、表单与可视化
+### 🗂️ 状态表单与可视化
 
 <p>
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="Apache ECharts" />
 </p>
 
-### 🌐 数据、接口与工程
+### 🌐 数据接口和工程化
 
 <p>
   <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
 </p>
 
-## ✨ 精选项目
+## ✨ 部分项目
 
 ### [TaskFlow - 个人任务管理工作台](https://github.com/Uonlra/TaskFlow)
 
