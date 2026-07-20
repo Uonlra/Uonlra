@@ -35,7 +35,7 @@
 
 计算机科学与技术专业，现技术方向为前端开发工程师，位于中国成都。专注于使用 React、TypeScript 和 Next.js 构建完整的 Web 应用，重视类型约束、异常状态、响应式体验与可维护的组件设计。
 
-- 正在探索：Three.js、WebGL 与前端 3D 表现。
+- 正在探索：Three.js、WebGL 与可视化前端 3D 表现。
 - 喜欢将需求拆解为清晰的交互流程、数据模型与可复用组件。
 - 联系方式：`uonlra@hotmail.com` | 个人网站：[uon1ra.top](https://www.uon1ra.top/)
 
