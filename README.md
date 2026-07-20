@@ -1,8 +1,8 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0F766E&height=190&section=header&text=Jiang%20Junfeng&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20Next.js&descSize=18&descAlignY=58&animation=fadeIn"
-    alt="Jiang Junfeng - Frontend Developer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0F766E&height=190&section=header&text=Uonlra&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20Next.js&descSize=18&descAlignY=58&animation=fadeIn"
+    alt="Uonlra - Frontend Developer"
   />
 </p>
 
@@ -24,6 +24,12 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FRONTEND_ENGINEERING-DCEEFF?style=for-the-badge&labelColor=DCEEFF&color=DCEEFF&logoColor=111827" alt="Frontend Engineering" />
+  <img src="https://img.shields.io/badge/INTERACTIVE_UI-C4B5FD?style=for-the-badge&labelColor=C4B5FD&color=C4B5FD&logoColor=111827" alt="Interactive UI" />
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-FECACA?style=for-the-badge&labelColor=FECACA&color=FECACA&logoColor=111827" alt="Open source" />
+  <img src="https://img.shields.io/badge/PRODUCT_THINKING-BBE4C9?style=for-the-badge&labelColor=BBE4C9&color=BBE4C9&logoColor=111827" alt="Product Thinking" />
+</p>
 
 ## 👋 关于我
 
@@ -33,28 +39,70 @@
 - 喜欢将需求拆解为清晰的交互流程、数据模型与可复用组件。
 - 联系方式：`uonlra@hotmail.com` | 个人网站：[uon1ra.top](https://www.uon1ra.top/)
 
+## 💪 核心能力
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🧩 组件化开发</h3>
+      <p>
+        基于 React Hooks 与组件拆分组织业务界面，
+        将列表、表单、筛选器和详情面板沉淀为可复用模块。
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🛡️ 类型与状态管理</h3>
+      <p>
+        使用 TypeScript strict、Zustand、Context API、
+        React Hook Form 与 Zod 建立清晰的数据约束和交互流程。
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>⚡ 接口与实时数据</h3>
+      <p>
+        具备 Appwrite、Convex、Clerk 与 REST API 联调经验，
+        能够处理鉴权、分页、搜索、上传和实时数据同步。
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>📱 验证与工程交付</h3>
+      <p>
+        重视响应式适配、loading、empty、error 等边界状态，
+        并通过 Vitest、ESLint、typecheck 和 build 完成交付验证。
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## 🔗 🛠 技术栈
 
-### 💻 开发语言
+#### 💻 开发语言
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ⚛️ 前端开发
+#### ⚛️ 前端开发
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 </p>
 
-### 🗂️ 状态表单与可视化
+#### 🗂️ 状态、表单和可视化
 
 <p>
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
@@ -63,7 +111,7 @@
   <img src="https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="Apache ECharts" />
 </p>
 
-### 🌐 数据接口和工程化
+#### 🌐 数据、接口与鉴权
 
 <p>
   <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
@@ -71,35 +119,93 @@
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
 </p>
 
-## ✨ 部分项目
+#### ☁️ 部署与工程化
 
-### [TaskFlow - 个人任务管理工作台](https://github.com/Uonlra/TaskFlow)
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+</p>
 
-`Next.js` `TypeScript` `Appwrite` `Zustand` `React Hook Form` `Zod` `ECharts`
+## ✨ 项目维护
 
-覆盖认证、任务 CRUD、多维筛选、统计看板、日历和个人设置的任务管理应用。通过 API Route、httpOnly Cookie 与 middleware 实现会话管理和页面保护；通过统一 URL 筛选协议、双数据模式与 Vitest 边界测试，保证筛选流程和异常状态的可靠性。
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🗂️ <a href="https://github.com/Uonlra/TaskFlow">TaskFlow — 个人任务管理工作台</a></h3>
+      <p>
+        基于 Next.js 与 TypeScript 构建的任务管理应用，覆盖认证、任务 CRUD、多维筛选、
+        统计看板、日历与个人设置。通过 Appwrite、API Route、httpOnly Cookie 和 middleware
+        实现真实数据、会话管理与页面保护，并以 URL 参数协议保证筛选状态可恢复、可分享。
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite" />
+        <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white" alt="Zustand" />
+        <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" alt="ECharts" />
+      </p>
+      <p>
+        <a href="https://www.uta4k.top/">在线预览</a> ·
+        <a href="https://github.com/Uonlra/TaskFlow">查看源码</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-[在线预览](https://www.uta4k.top/) · [查看源码](https://github.com/Uonlra/TaskFlow)
+<br />
 
-### [RedditLike - 实时社区内容平台](https://github.com/Uonlra/RedditLike)
+<table>
+  <tr>
+    <td width="100%">
+      <h3>💬 <a href="https://github.com/Uonlra/RedditLike">RedditLike — 实时社区内容平台</a></h3>
+      <p>
+        基于 Convex 响应式查询构建的实时社区应用，包含社区创建、帖子发布、评论、
+        投票、搜索、热门流和个人主页。围绕用户、社区、帖子与评论建立类型安全的数据模型，
+        支持全文搜索、资源归属校验和两阶段图片上传。
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white" alt="Convex" />
+        <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      </p>
+      <p>
+        <a href="https://github.com/Uonlra/RedditLike">查看源码</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-`React 19` `TypeScript` `Convex` `Clerk` `Vite`
+<br />
 
-基于 Convex 响应式查询实现多客户端实时同步的社区应用，包含社区、帖子、评论、投票、搜索和个人主页。围绕用户、社区、帖子与评论建立类型安全的数据模型、全文搜索和组合索引，并处理资源归属校验与两阶段图片上传。
-
-[查看源码](https://github.com/Uonlra/RedditLike)
-
-### [U-s-cinema - 电影浏览与观影清单](https://github.com/Uonlra/U-s-cinema)
-
-`React` `TypeScript` `Vite` `React Router` `TMDB API`
-
-面向电影浏览和个人片库管理的单页应用，提供推荐、目录、详情、收藏和观看状态管理。封装泛型接口请求，使用 Context 与 localStorage 管理数据，并完成从 JavaScript 到 TypeScript strict 的渐进迁移。
-
-[查看源码](https://github.com/Uonlra/U-s-cinema)
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🎬 <a href="https://github.com/Uonlra/U-s-cinema">U-s-cinema — 电影浏览与观影清单</a></h3>
+      <p>
+        面向电影浏览与个人片库管理的 React 单页应用，提供推荐、目录、详情、收藏、
+        想看和观看状态管理。封装泛型 TMDB 请求方法，统一处理分页、网络异常与图片兜底，
+        并完成 JavaScript 至 TypeScript strict 的渐进迁移。
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+        <img src="https://img.shields.io/badge/TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white" alt="TMDB API" />
+      </p>
+      <p>
+        <a href="https://github.com/Uonlra/U-s-cinema">查看源码</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub 统计数据
 
