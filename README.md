@@ -44,7 +44,7 @@ Computer Science graduate and frontend developer based in Chengdu, China. I buil
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>🧩 Component Engineering</h3>
+      <h3>🔧 Component Engineering</h3>
       <p>
         Build business interfaces with React Hooks and composable components,
         turning lists, forms, filters, and detail panels into reusable modules.
