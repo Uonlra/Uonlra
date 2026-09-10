@@ -37,7 +37,7 @@ Computer Science graduate based in Chengdu, China. I am a frontend-focused devel
 
 - I care about clear visual hierarchy, purposeful interaction, and resilient states across desktop and mobile.
 - I enjoy turning product requirements into interaction flows, typed data models, and maintainable components.
-- Exploring: ENbodied AI - Robot Foundation Model with VLA and Real-World Reinforcement Learning😭😭😭
+- Exploring: Enbodied AI - Robot Foundation Model with VLA and Real-World Reinforcement Learning😭😭😭
 - Contact: `uonlra@hotmail.com` | Website: [uon1ra.top](https://www.uon1ra.top/)
 
 ## 🎩 Core Strengths
