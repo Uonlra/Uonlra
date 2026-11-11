@@ -40,7 +40,8 @@ Computer Science graduate based in Chengdu, China. I am a frontend-focused devel
 - Exploring:
   - Computer Vision
   - Multimodal 
-  - Enbodied AI - Robot Foundation Model with VLA and Real-World Reinforcement Learning😭😭😭
+  - Enbodied AI
+  - Computer vision
 - Contact: `uonlra@hotmail.com` | Website: [uon1ra.top](https://www.uon1ra.top/)
 
 ## 🎩 Core Strengths
